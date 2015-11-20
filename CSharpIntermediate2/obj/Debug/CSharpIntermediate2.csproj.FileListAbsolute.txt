@@ -1,0 +1,6 @@
+C:\repos\CSharpIntermediate\CSharpIntermediate2\bin\Debug\CSharpIntermediate2.exe.config
+C:\repos\CSharpIntermediate\CSharpIntermediate2\bin\Debug\CSharpIntermediate2.exe
+C:\repos\CSharpIntermediate\CSharpIntermediate2\bin\Debug\CSharpIntermediate2.pdb
+C:\repos\CSharpIntermediate\CSharpIntermediate2\obj\Debug\CSharpIntermediate2.csprojResolveAssemblyReference.cache
+C:\repos\CSharpIntermediate\CSharpIntermediate2\obj\Debug\CSharpIntermediate2.exe
+C:\repos\CSharpIntermediate\CSharpIntermediate2\obj\Debug\CSharpIntermediate2.pdb
