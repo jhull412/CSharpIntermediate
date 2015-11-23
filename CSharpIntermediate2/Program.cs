@@ -16,9 +16,10 @@ namespace CSharpIntermediate2
 
             var order = new Order();
             customer.Orders.Add(order);
-            Console.WriteLine("hello world");
+
             Console.WriteLine(customer.Id);
             Console.WriteLine(customer.Name);
+
             Console.ReadLine();
         }
     }
