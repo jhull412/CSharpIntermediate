@@ -1,0 +1,6 @@
+C:\repos\CSharpIntermediate\Section1\Fields\Fields2\bin\Debug\Fields2.exe.config
+C:\repos\CSharpIntermediate\Section1\Fields\Fields2\bin\Debug\Fields2.exe
+C:\repos\CSharpIntermediate\Section1\Fields\Fields2\bin\Debug\Fields2.pdb
+C:\repos\CSharpIntermediate\Section1\Fields\Fields2\obj\Debug\Fields2.csprojResolveAssemblyReference.cache
+C:\repos\CSharpIntermediate\Section1\Fields\Fields2\obj\Debug\Fields2.exe
+C:\repos\CSharpIntermediate\Section1\Fields\Fields2\obj\Debug\Fields2.pdb

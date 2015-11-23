@@ -4,3 +4,6 @@ C:\Projects\CSharpIntermediate\AccessModifiers\AccessModifiers\bin\Debug\AccessM
 C:\Projects\CSharpIntermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csprojResolveAssemblyReference.cache
 C:\Projects\CSharpIntermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
 C:\Projects\CSharpIntermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
+C:\repos\CSharpIntermediate\Section1\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\repos\CSharpIntermediate\Section1\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\repos\CSharpIntermediate\Section1\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
