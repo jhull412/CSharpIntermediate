@@ -4,3 +4,6 @@ C:\Projects\CSharpIntermediate\Section2\Composition\Composition\bin\Debug\Compos
 C:\Projects\CSharpIntermediate\Section2\Composition\Composition\obj\Debug\Composition.csprojResolveAssemblyReference.cache
 C:\Projects\CSharpIntermediate\Section2\Composition\Composition\obj\Debug\Composition.exe
 C:\Projects\CSharpIntermediate\Section2\Composition\Composition\obj\Debug\Composition.pdb
+C:\repos\CSharpIntermediate\Section2\Composition\Composition\bin\Debug\Composition.exe.config
+C:\repos\CSharpIntermediate\Section2\Composition\Composition\obj\Debug\Composition.exe
+C:\repos\CSharpIntermediate\Section2\Composition\Composition\obj\Debug\Composition.pdb
